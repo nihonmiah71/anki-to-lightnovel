@@ -1,5 +1,9 @@
 # Mined Words Translation Injection Workflow & Technical Documentation
 
+## Disclaimer
+
+The python scripts will probably not run on your system unless you installed all the right packages, some of them might only be supported for older pyhton versions (Python 3.12), debug with AI and install the required packages as needed.
+
 ## 1. Workflow Instructions
 
 * **Step 1:** Select a chapter that has already been read.
